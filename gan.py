@@ -1,1 +1,0 @@
-#this will be a Generative Adversarial Network for the MNIST dataset 
